@@ -1,0 +1,5 @@
+Tesseract==3.05
+Python==3.11.4
+pandas==1.5.3
+PIL==10.0.0
+pip==23.1.2
